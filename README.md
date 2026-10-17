@@ -229,12 +229,12 @@ Building this project helped me work with:
 * Middleware
 * Environment variable management
 * Separating business logic from controllers
+*  Rate limiting
 
 ## 🔮 Future Improvements
 
 * AI response streaming
 * Refresh-token authentication
-* Rate limiting
 * Improved error handling and logging
 * Automated testing
 * Swagger/OpenAPI documentation
